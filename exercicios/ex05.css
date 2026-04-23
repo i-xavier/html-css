@@ -1,0 +1,142 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+  
+}
+
+.tahoma-text{
+  font-family: tahoma;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+
+}
+
+.deals-text{
+  
+  font-weight: bold;
+  font-size: 30px;
+
+}
+
+.subtitle{
+  
+  font-size: 21px;
+  font-style: italic;
+  color: red;
+  margin-bottom: 30px;
+
+}
+
+.course-title{
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 5px;
+
+}
+
+.course-subtitle{
+  font-family: Verdana;
+  font-size: 22px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 25px;
+}
+
+.course-description{
+  font-family: Verdana;
+  font-size: 21px;
+  width: 400px;
+  margin-bottom: 25px;
+  line-height: 26px;
+
+}
+
+.course-button{
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.shop-title{
+  
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+
+}
+
+.shop-description{
+  
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.shop-hyperlink{
+  
+  text-align: center;
+  color: rgb(123, 163, 236);
+  margin-bottom: 30px;
+}
+
+.shop-hyperlink:hover{
+  text-decoration: underline;
+}
+
+.new{
+  color: orange;
+  font-weight: bold;
+  text-align: center;
+}
+
+.macbook{
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+
+}
+
+.pros{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+
+.from{
+  text-align: center;
+
+}
+
+.button-buy{
+  vertical-align: center;
+}
+
+.price{
+
+}
+
+.cambio{
+
+}
+
+.green-number{
+
+}
+
+.red-number{
+
+}
+
+.after-hour{
+
+}
