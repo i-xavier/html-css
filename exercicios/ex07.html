@@ -7,22 +7,39 @@
   <style>
     .gato1{
       width: 200px;
+      height: 150px;
       border-radius: 20px;
       margin-right: 50px;
     }
 
     .gato2{
-      width: 200px;
-      height: 200px;
+      width: 150px;
+      height: 150px;
       object-fit: cover;
       margin-right: 50px;
     }
 
     .gato3{
-      width: 200px;
-      height: 200px;
+      width: 150px;
+      height: 150px;
       object-fit: cover;
       border-radius: 100px;
+    }
+
+    .busca{
+      border-radius: 5px;
+      border-width: 1px;
+      height: 25px;
+      font-size: 20px;
+    }
+
+    .busca-sombra{
+      border-radius: 25px;
+      border-width: 0px;
+      height: 25px;
+      width: 320px;
+      box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+      font-size: 16px;
     }
   </style>
 </head>
@@ -30,5 +47,7 @@
   <img class="gato1" src="imagens/gato.jpg">
   <img class="gato2" src="imagens/gato.jpg">
   <img class="gato3" src="imagens/gato.jpg">
+  <input class="busca" type="text" placeholder="  Search">
+  <input class="busca-sombra" type="text" placeholder="Search Google or type a URL">
 </body>
 </html>

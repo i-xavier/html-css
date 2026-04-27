@@ -1,0 +1,36 @@
+.red-square{
+  background-color: red;
+  width: 250px;
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.green-square{
+  background-color: green;
+  width: 250px;
+  display: inline-block;
+  border-radius: 150px;
+}
+
+.ex9c{
+  border: 1px solid #333;
+  width: 300px;
+
+}
+
+.title{
+  margin-left: 10px;
+  font-size: 18px;
+} 
+
+.btn{
+  vertical-align: middle;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+
+.btn2{
+  vertical-align: middle;
+  margin-bottom: 15px;
+}
+
